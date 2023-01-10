@@ -13,12 +13,12 @@ body {
   margin: 10px;
   border: 5px solid black;
   left: 0;
-  background-image: url("https://media.giphy.com/media/2xtqI9V0ogEj6/giphy.gif");
+  background-image: url("https://cdn.cloudflare.steamstatic.com/steamcommunity/public/images/clans/39644358/ec69adaa60de02070d7ccca5fca05eb6d76cca6b.gif");
   position: absolute;
 }
 
 #left-paddle {
-  background-color: green;
+  background-color: red;
   left: 10px;
   height: 25px;
 }
@@ -46,7 +46,7 @@ body {
 }
 
 #errors {
-  color: red;
+  color: orange;
   font-weight: 700;
 }
 
